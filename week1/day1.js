@@ -19,21 +19,3 @@ let nums = [1,3,5,9]
     }
     return array
 }
-
-// --  -   ---  --   -  --   --   ---  
-
-// 1672. Richest Customer Wealth
-
-/*
-    You are given an m x n integer grid accounts where acounts[i][j] is the amount of money the ith customer has the jth bank. Return the wealth that the richest customer has.
-
-    A customer's wealth is the amount of money they have in all their bank accounts. The richest customer is the customer that has the maximum wealth.
-*/
-let accounts = [[1,2,3],[3,2,1]]
-/**
- * @param {number[][]} accounts
- * @return {number}
- */
- let maximumWealth = function(accounts) {
-    
-}
